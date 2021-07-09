@@ -72,4 +72,6 @@
 
 <p>
 <img width="101%" src="images-gifs/computerman.gif">
+I am a computer man . I can do any thing you can 
+Just a meme ;)
 </p>
