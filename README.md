@@ -1,6 +1,41 @@
-<img align="right" width="5%" src="images-gifs/wave.gif" />
-<img align="left" width="5%" src="images-gifs/wave.gif" />
-<h1 align="center">Hi I'm Sarang</h1>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column1 {
+  float: left;
+  width: 10%;
+  padding: 5px;
+}
+.column2 {
+  float: center;
+  width: 90%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+
+<div class="row">
+  <div class="column1">
+    <img align="left" width="100%" src="images-gifs/wave.gif" />  
+    </div>
+      <div class="column2">
+        <h1>Hi I'm Sarang</h1>
+        </div>
+</div>
+
+
+
+
+
 <h3 align="center">A Fullstack developer and Startup manager from India</h3>
 <img align="right" width="25%" src="images-gifs/giphy.gif" />
 
