@@ -1,4 +1,4 @@
-<h1> <img align="left" width="25%" src="images-gifs/wave.gif" /> Hello I'm Sarang</h1>
+<h1> <img align="left" width="5%" src="images-gifs/wave.gif" /> Hello I'm Sarang</h1>
 
 
 
