@@ -35,7 +35,6 @@
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarangT123&theme=dracula" />
 </p>
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=SarangT123&theme=dracula" />
 
 
 
