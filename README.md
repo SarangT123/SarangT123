@@ -1,3 +1,9 @@
+<p>
+  <svg width="2560" height="1440" viewBox="0 0 2560 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="2560" height="1440" fill="#1A1A1A"/>
+</svg>
+</p>
+
 <h1> <img align="left" width="5%" src="images-gifs/wave.gif" /> Hello I'm Sarang</h1>
 
 
