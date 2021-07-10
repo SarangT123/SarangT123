@@ -1,5 +1,5 @@
 <p>
-![image](https://user-images.githubusercontent.com/72746858/125149643-c9dc6280-e157-11eb-9107-2e1389022248.png)
+<img align="center" width"5%" src="https://user-images.githubusercontent.com/72746858/125149643-c9dc6280-e157-11eb-9107-2e1389022248.png">
 </p>
 
 <h1> <img align="left" width="5%" src="images-gifs/wave.gif" /> Hello I'm Sarang</h1>
