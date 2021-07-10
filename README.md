@@ -37,8 +37,9 @@
 </p>
 
 
-
-
+<p>
+  <img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=Sarangt123"
+</p>
 
 <p>
 <img width="101%" src="images-gifs/computerman.gif">
