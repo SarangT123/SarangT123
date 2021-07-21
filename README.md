@@ -8,6 +8,9 @@
 
 
 <h3 align="center">A Fullstack developer and Startup manager from India</h3>
+
+<h3 align="center">Also one of the creators of Doge programming language</h3>
+
 <img align="right" width="25%" src="images-gifs/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarangt123&label=Profile%20views&color=0e75b6&style=flat" alt="sarangt123" /> </p>
