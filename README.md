@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Django,C# and Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SarangT123](https://github.com/SarangT123)
+- 👨‍💻 All of my projects are available [here](https://github.com/SarangT123/repositories)
 
 - 💬 Ask me about **Flask(Thats my thing ;) )**
 
