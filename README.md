@@ -10,7 +10,7 @@
 <h3 align="center">I can do back-end development</h3>
 
 
-<h3 align="center">Made Augmented python library (not actively maintained) </h3>
+<h3 align="center">Made Augmented python library (updated for latest py version) </h3>
 
 
 <img align="right" width="25%" src="images-gifs/giphy.gif" />
