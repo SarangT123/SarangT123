@@ -25,11 +25,11 @@ I Have worked on a vast vartety of projects from Hardware to AI
 
 | | project | what |
 |---|---|---|
-| 🧠 | **[loom](https://github.com/SarangT123/loom)** | neural net library from scratch — backprop, activations, losses, Sequential API. NumPy only. |
+| 🧠 | **[loom](https://github.com/SarangT123/loom)** | neural net library from scratch  backprop, activations, losses, Sequential API. NumPy only. |
 | 📦 | **[augmented](https://github.com/SarangT123/augmented)** | AR library on PyPI · ORB feature matching + ArUco markers · **58k+ downloads** |
 | 📈 | **[graph_it](https://github.com/SarangT123/graph_it)** | Discord graphing bot · **10k+ users** |
 | 💻 | **[LC-3 VM](https://github.com/SarangT123/LC-3_VM_in_C)** | virtual machine for the LC-3 ISA in C · 65536 memory locations, full instruction set |
-| 🖥️ | **[achus](https://github.com/SarangT123/achus)** | self-hosted multi-tool server for teachers — PDF suite, AI poster gen, bulk certificates, cloud storage, print queue · pluggable module system | FastAPI, React, SQLite, Linux Server |
+| 🖥️ | **[achus](https://github.com/SarangT123/achus)** | self-hosted multi-tool server for teachers   PDF suite, AI poster gen, bulk certificates, cloud storage, print queue · pluggable module system | FastAPI, React, SQLite, Linux Server |
 | 🔌 | **ATM circuit** | hardware-only ATM with 74xx TTL ICs · adder/subtractor, 2's complement, BCD, overflow |
 
 
